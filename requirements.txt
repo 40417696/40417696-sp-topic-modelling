@@ -1,0 +1,8 @@
+matplotlib
+wordcloud
+openpyxl
+progress
+gensim
+pandas
+numpy
+spacy
